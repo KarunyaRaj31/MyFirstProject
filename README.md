@@ -1,3 +1,4 @@
 # MyFirstProject
+<br>
 This is my first GitHub project.
-Author - karunya Raj
+Author - Karunya Raj
